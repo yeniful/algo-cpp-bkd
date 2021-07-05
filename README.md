@@ -1,6 +1,6 @@
 # 바킹독 알고리즘
 바킹독님의 알고리즘 강의를 보며 푼 boj 문제들입니다.
-<br>하단 링크의 개정된 강의를 기준으로 풀었습니다.
+<br>하단 링크의 개정 강의 문제집을 기준으로 풀었습니다.
 <br>https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md
 
 ## how to compile
